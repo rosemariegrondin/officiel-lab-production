@@ -1,1 +1,1 @@
-web: java -Dstore=memory -Dport=$PORT -jar target/application-name-1.0.0-SNAPSHOT.jar
+web: java -Dstore=memory -Dport=$PORT -jar target/officiel-lab-production.jar
